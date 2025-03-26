@@ -12,6 +12,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## git clone url of the repo
 
+## then
+
+`npm install`
+
 and then you can run using:
 
 ### `npm start`
