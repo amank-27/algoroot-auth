@@ -1,3 +1,9 @@
+## github repo- https://github.com/amank-27/algoroot-auth
+
+## Deployed on vercel
+
+## Live link - https://algoroot-auth.vercel.app/login
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
